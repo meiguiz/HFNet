@@ -1,6 +1,6 @@
-# HGNet
+# HFNet
 
-This repository contains the implementation of the GHNet from the paper:
+This repository contains the implementation of the HFNet from the paper:
 
 #### HFNet: High-Precision Robotic Grasp Detection in Unstructured Environments Using Hierarchical RGB-D Feature Fusion and Fine-Grained Pose Alignment
 
