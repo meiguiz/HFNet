@@ -4,7 +4,7 @@ This repository contains the implementation of the HFNet from the paper:
 
 #### HFNet: High-Precision Robotic Grasp Detection in Unstructured Environments Using Hierarchical RGB-D Feature Fusion and Fine-Grained Pose Alignment
 
-Robot grasping experiment video: [video](https://youtu.be/uCN0iav4FqQ)
+Robot grasping experiment video: [video](https://youtu.be/uyL60vQR2CI)
 
 ## Requirements
 
